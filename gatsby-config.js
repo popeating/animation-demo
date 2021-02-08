@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Animation demo",
+    title: 'Animation demo',
   },
-  plugins: ["gatsby-plugin-postcss"],
+  plugins: ['gatsby-plugin-postcss', 'gatsby-plugin-transition-link'],
 };
